@@ -47,11 +47,6 @@
     "webpack": "^1.4.15",
     "webpack-dev-server": "^1.7.0"
   },
-  "browserify": {
-    "transform": [
-      "browserify-shim"
-    ]
-  },
   "browser": {
     "angular-hammer": "./angular.hammer.min.js"
   },
