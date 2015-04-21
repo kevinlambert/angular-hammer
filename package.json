@@ -2,7 +2,7 @@
   "name": "angular-hammer",
   "version": "2.1.10",
   "description": "Hammer.js support for Angular.js applications",
-  "main": "angular.hammer.js",
+  "main": "angular.hammer.min.js",
   "directories": {
     "example": "examples"
   },
@@ -53,7 +53,7 @@
     ]
   },
   "browser": {
-    "angular-hammer": "./angular.hammer.js"
+    "angular-hammer": "./angular.hammer.min.js"
   },
   "browserify-shim": {
     "angular": {
